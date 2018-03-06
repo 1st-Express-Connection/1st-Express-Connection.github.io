@@ -9,7 +9,7 @@
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the use of camera, reading file storage, and wifi.
-	The information that we request is retained on your device and is not collected by us in any way.</p>
+	The information that we request is retained on your device and is not saved by us in any way.</p>
 
 <p><strong>Log Data</strong></p>
 <p>We want to inform you that whenever you use our Service, in case of an error in the app we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.</p>
