@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Express Connections built the Product Scanner app as a free and ad-supported app. This SERVICE is provided by Express Connections at no cost and is intended
+<p>Express Connections built these apps as free and ad-supported apps. This SERVICE is provided by Express Connections at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
 <p>If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
@@ -15,7 +15,7 @@
 <p>We want to inform you that whenever you use our Service, in case of an error in the app we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.</p>
 
 <p><strong>Cookies</strong></p>
-<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.</p>
+<p>Cookies are files with small amount of data that commonly uses an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.</p>
 <p>This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p>
 
 <p><strong>Security</strong></p>
